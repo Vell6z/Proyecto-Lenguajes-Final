@@ -4,7 +4,7 @@ Proyecto realizado por
 
 Juan Esteban Velez Montoya
 
-Elzepeto
+Samuel Zapata Vargas
 
 Para ejecutar primero instalar las dependencias necesarias con
 ``pip install -r requirements.txt``
